@@ -36,8 +36,8 @@ I'm a passionate and curious **Python Developer** with over 2.5 years of hands-o
 
 I'm always up for a tech chat, mentoring, or contributing to open-source. If you have an idea, let's build it together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rutuja-hande/)
-[![Gmail](https://img.shields.io/badge/Gmail-rutujahande9999%40gmail.com-red)](mailto:rutujahande9999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rutujaa-hande/)
+[![Gmail](https://img.shields.io/badge/Gmail-rutujahande9999%40gmail.com-red)](mailto:rutujaacareers@gmail.com)
 
 ---
 
